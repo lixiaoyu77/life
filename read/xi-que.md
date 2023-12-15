@@ -1,12 +1,6 @@
----
-description: Leo's 阅读摘录
----
+# 稀缺
 
-# 📖 Read
-
-大胆向前，探索这个世界的未知，一切都会慢慢的被看见！
-
-<figure><img src="image.png" alt="" width="214"><figcaption><p><mark style="background-color:red;"><strong>稀缺</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt="" width="214"><figcaption></figcaption></figure>
 
 我深刻地感受到自己正处于一种稀缺状态之中。
 
