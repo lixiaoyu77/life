@@ -1,6 +1,6 @@
 # 做最擅长的事
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption><p>红杉资本-沈南鹏</p></figcaption></figure>
 
 这不仅是一本个人传记，更是一部探讨如何在瞬息万变的世界中找到自身位置和价值的指南。
 
