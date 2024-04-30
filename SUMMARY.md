@@ -3,7 +3,7 @@
 * [📆 Live](README.md)
 * [🖥️ Web3](web3/README.md)
   * [撸毛笔记](web3/lu-mao-bi-ji/README.md)
-    * [Page 1](web3/lu-mao-bi-ji/page-1.md)
+    * [BitLight项目](web3/lu-mao-bi-ji/bitlight-xiang-mu.md)
 * [📖 Read](read/README.md)
   * [纳瓦尔宝典](read/na-wa-er-bao-dian.md)
   * [做最擅长的事](read/zuo-zui-shan-chang-de-shi.md)
