@@ -1,6 +1,6 @@
 # 稀缺
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="214"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="214"><figcaption></figcaption></figure>
 
 我深刻地感受到自己正处于一种稀缺状态之中。
 
